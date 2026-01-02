@@ -16,7 +16,7 @@ Building impactful tech • Open Source Explorer
 ## ⚡ About Me
 
 <table>
-  <tr>
+  <tr border="0" cellpadding="0" cellspacing="0" width="100%">
     <td width="70%" valign="top">
 
 💻 **Backend-focused Full Stack Developer**  
@@ -26,7 +26,7 @@ Building impactful tech • Open Source Explorer
 🚀 Driven to build **real-world, impactful systems**
 
    </td>
-    <td width="30%" align="right">
+    <td width="30%" align="right" valign = "top">
       <img 
         src="https://i.pinimg.com/736x/00/45/46/004546aba62dc6ab5858febfe17b48ad.jpg" 
         width="280" 
