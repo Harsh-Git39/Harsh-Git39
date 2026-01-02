@@ -29,7 +29,7 @@ Building impactful tech • Open Source Explorer
     <td width="20%" align="right" valign = "top">
       <img 
         src="https://i.pinimg.com/736x/00/45/46/004546aba62dc6ab5858febfe17b48ad.jpg" 
-        width="300px" 
+        width="400px" 
         alt="coding gif"/>
     </td>
   </tr>
