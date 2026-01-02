@@ -16,8 +16,8 @@ Building impactful tech • Open Source Explorer
 ## ⚡ About Me
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+  <tr text-decoration = "none" border = "none">
+    <td width="70%" valign="top">
 
 💻 **Backend-focused Full Stack Developer**  
 🌍 Actively seeking **Open Source Contributions**  
