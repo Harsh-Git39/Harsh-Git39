@@ -19,6 +19,7 @@ Building impactful tech • Open Source Explorer
   <tr border="0" cellpadding="0" cellspacing="0" width="100%">
     <td width="70%" valign="top">
 
+
 💻 **Backend-focused Full Stack Developer**  
 🌍 Actively seeking **Open Source Contributions**  
 🧠 Interests: **Computer Vision, OpenCV, Applied AI**  
