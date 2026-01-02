@@ -25,7 +25,7 @@ Building impactful tech • Open Source Explorer
 
 ## ⚡Tech Focus
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,react,mongodb,postgres,opencv,supabase,java,python,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,express,react,mongodb,postgres,opencv,supabase,java,python,git&theme=dark" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ Building impactful tech • Open Source Explorer
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
   <a href="mailto:harshdalvi39@gmail.com">
-    <img src="https://skillicons.dev/icons?i=email&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
   </a>
   <a href="https://stackoverflow.com/users/30261816/harsh-dalvi">
     <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"/>
