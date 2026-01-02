@@ -13,13 +13,29 @@ Building impactful tech • Open Source Explorer
 </p>
 
 ---
-##⚡ About Me<
+## ⚡ About Me
 
-💻 Backend-focused Full Stack Developer <br>
-🌍 Actively seeking <b>Open Source Contributions</b> <br>
-🧠 Interests: <b>Computer Vision, OpenCV, Applied AI</b> <br>
-🌐 Exploring <b>Web3 & Blockchain (DFINITY ICP)</b> <br>
-🚀 Driven to build <b>real-world, impactful systems</b>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+💻 **Backend-focused Full Stack Developer**  
+🌍 Actively seeking **Open Source Contributions**  
+🧠 Interests: **Computer Vision, OpenCV, Applied AI**  
+🌐 Exploring **Web3 & Blockchain (DFINITY ICP)**  
+🚀 Driven to build **real-world, impactful systems**
+
+<p style="color:#00FFFF;"><i>Learning by building. Growing by contributing.</i></p>
+
+    </td>
+    <td width="40%" align="center">
+      <img 
+        src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
+        width="300" 
+        alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
