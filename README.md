@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" />
-  
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="420" alt="coding animation"/>
+<p align="center">  
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="820" alt="coding animation"/>
 </p>
 
 <h1 align="center" style="color:#00FFFF;">Hey, I'm Harsh 👋</h1>
