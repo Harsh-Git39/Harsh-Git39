@@ -36,7 +36,7 @@ Building impactful tech • Open Source Explorer
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
   <a href="https://www.linkedin.com/in/harsh-dalvi-693855336">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
   <a href="mailto:harshdalvi39@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
