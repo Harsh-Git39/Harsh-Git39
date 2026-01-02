@@ -7,10 +7,6 @@
 <p align="center">
   <b>Sophomore CSE Student • Backend-Focused Full Stack Developer</b><br/>
   <span style="color:#00FFFF;">Building • Learning • Contributing</span>
-<p align="center" style="color:#00e6e6;">
-Sophomore CSE Student • Backend-Focused Full Stack Developer  
-Building impactful tech • Open Source Explorer
-</p>
 
 ---
 ## ⚡ About Me
