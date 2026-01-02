@@ -1,9 +1,4 @@
 <!-- HEADER GIF -->
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
-
-
-</p>
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Sophomore CSE Student | Backend-Focused Full Stack Developer</h3>
