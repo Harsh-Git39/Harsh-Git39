@@ -16,7 +16,7 @@ Building impactful tech • Open Source Explorer
 ## ⚡ About Me
 
 <table>
-  <tr text-decoration = "none" border = "none">
+  <tr>
     <td width="70%" valign="top">
 
 💻 **Backend-focused Full Stack Developer**  
@@ -25,13 +25,11 @@ Building impactful tech • Open Source Explorer
 🌐 Exploring **Web3 & Blockchain (DFINITY ICP)**  
 🚀 Driven to build **real-world, impactful systems**
 
-<p style="color:#00FFFF;"><i>Learning by building. Growing by contributing.</i></p>
-
    </td>
-    <td width="30%" align="center">
+    <td width="30%" align="right">
       <img 
         src="https://i.pinimg.com/736x/00/45/46/004546aba62dc6ab5858febfe17b48ad.jpg" 
-        width="300" 
+        width="280" 
         alt="coding gif"/>
     </td>
   </tr>
