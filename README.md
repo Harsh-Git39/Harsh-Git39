@@ -1,6 +1,6 @@
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="720" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="820" />
 </p>
 
 <h1 align="center">Hey, I’m Harsh 👋</h1>
