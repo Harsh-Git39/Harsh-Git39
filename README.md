@@ -52,7 +52,6 @@ Building impactful tech • Open Source Explorer
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-Git39&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-Git39&theme=tokyonight&hide_border=true" />
 </p>
 
