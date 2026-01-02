@@ -28,9 +28,9 @@ Building impactful tech • Open Source Explorer
 <p style="color:#00FFFF;"><i>Learning by building. Growing by contributing.</i></p>
 
    </td>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <img 
-        src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
+        src="https://in.pinterest.com/pin/15340454977616844/" 
         width="300" 
         alt="coding gif"/>
     </td>
