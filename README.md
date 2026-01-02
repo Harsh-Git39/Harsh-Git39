@@ -18,9 +18,7 @@ Building impactful tech • Open Source Explorer
 <table>
   <tr border="0" cellpadding="0" cellspacing="0" width="100%">
     <td width="70%" valign="top">
-
-
-       
+    
 💻 **Backend-focused Full Stack Developer**  
 🌍 Actively seeking **Open Source Contributions**  
 🧠 Interests: **Computer Vision, OpenCV, Applied AI**  
@@ -31,7 +29,7 @@ Building impactful tech • Open Source Explorer
     <td width="20%" align="right" valign = "top">
       <img 
         src="https://i.pinimg.com/736x/00/45/46/004546aba62dc6ab5858febfe17b48ad.jpg" 
-        width="550px" 
+        width="550px" height = "220px"
         alt="coding gif"/>
     </td>
   </tr>
