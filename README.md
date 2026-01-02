@@ -13,19 +13,20 @@ Building impactful tech • Open Source Explorer
 </p>
 
 ---
-<p align = "center">
-## ⚡ About Me
-- 💻 Backend-focused Full Stack Developer  
-- 🌍 Actively seeking **Open Source Contributions**  
-- 🧠 Interests: **Computer Vision, OpenCV, Applied AI**  
-- 🌐 Exploring **Web3 & Blockchain (DFINITY ICP)**  
-- 🚀 Driven to build **real-world, impactful systems**
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+💻 Backend-focused Full Stack Developer <br>
+🌍 Actively seeking <b>Open Source Contributions</b> <br>
+🧠 Interests: <b>Computer Vision, OpenCV, Applied AI</b> <br>
+🌐 Exploring <b>Web3 & Blockchain (DFINITY ICP)</b> <br>
+🚀 Driven to build <b>real-world, impactful systems</b>
 </p>
 ---
 
 ## ⚡Tech Focus
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,express,react,mongodb,postgres,opencv,supabase,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ejs,java,python,nodejs,express,react,mongodb,postgres,opencv,supabase,git&theme=dark" />
 </p>
 
 ---
@@ -39,17 +40,17 @@ Building impactful tech • Open Source Explorer
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
   <a href="mailto:harshdalvi39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://skillicons.dev/icons?i=email&theme=dark"/>
+  </a>
+    <a href="https://stackoverflow.com/users/30261816/harsh-dalvi">
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"/>
   </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Git39&show_icons=true&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Git39&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-Git39&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
