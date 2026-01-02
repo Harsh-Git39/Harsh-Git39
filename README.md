@@ -26,10 +26,10 @@ Building impactful tech • Open Source Explorer
 🚀 Driven to build **real-world, impactful systems**
 
    </td>
-    <td width="30%" align="right" valign = "top">
+    <td width="20%" align="right" valign = "top">
       <img 
         src="https://i.pinimg.com/736x/00/45/46/004546aba62dc6ab5858febfe17b48ad.jpg" 
-        width="280" 
+        width="300px" 
         alt="coding gif"/>
     </td>
   </tr>
