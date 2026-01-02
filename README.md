@@ -1,6 +1,7 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" alt="coding gif" width="800"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="pixel coding gif" width="800"/>
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
