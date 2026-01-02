@@ -30,7 +30,7 @@ Building impactful tech • Open Source Explorer
    </td>
     <td width="30%" align="center">
       <img 
-        src="https://in.pinterest.com/pin/15340454977616844/" 
+        src="https://i.pinimg.com/736x/00/45/46/004546aba62dc6ab5858febfe17b48ad.jpg" 
         width="300" 
         alt="coding gif"/>
     </td>
