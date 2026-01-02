@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center" style="color:#00FFFF;">Hey, I'm Harsh 👋</h1>
-<h2 align="center" style="color:#00ffff;">👋 Hi, I'm Harsh</h2>
 
 <p align="center">
   <b>Sophomore CSE Student • Backend-Focused Full Stack Developer</b><br/>
