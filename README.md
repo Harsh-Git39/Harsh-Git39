@@ -13,20 +13,19 @@ Building impactful tech • Open Source Explorer
 </p>
 
 ---
-<h2 align="center">⚡ About Me</h2>
+##⚡ About Me<
 
-<p align="center">
 💻 Backend-focused Full Stack Developer <br>
 🌍 Actively seeking <b>Open Source Contributions</b> <br>
 🧠 Interests: <b>Computer Vision, OpenCV, Applied AI</b> <br>
 🌐 Exploring <b>Web3 & Blockchain (DFINITY ICP)</b> <br>
 🚀 Driven to build <b>real-world, impactful systems</b>
-</p>
+
 ---
 
 ## ⚡Tech Focus
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ejs,java,python,nodejs,express,react,mongodb,postgres,opencv,supabase,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,react,mongodb,postgres,opencv,supabase,java,python,git&theme=dark" />
 </p>
 
 ---
@@ -42,7 +41,7 @@ Building impactful tech • Open Source Explorer
   <a href="mailto:harshdalvi39@gmail.com">
     <img src="https://skillicons.dev/icons?i=email&theme=dark"/>
   </a>
-    <a href="https://stackoverflow.com/users/30261816/harsh-dalvi">
+  <a href="https://stackoverflow.com/users/30261816/harsh-dalvi">
     <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"/>
   </a>
 </p>
