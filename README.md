@@ -13,25 +13,19 @@ Building impactful tech • Open Source Explorer
 </p>
 
 ---
-
+<p align = "center">
 ## ⚡ About Me
 - 💻 Backend-focused Full Stack Developer  
 - 🌍 Actively seeking **Open Source Contributions**  
 - 🧠 Interests: **Computer Vision, OpenCV, Applied AI**  
 - 🌐 Exploring **Web3 & Blockchain (DFINITY ICP)**  
 - 🚀 Driven to build **real-world, impactful systems**
-
----
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,ejs,java,python,mongodb,postgres,supabase,opencv,git,github&theme=dark" />
 </p>
+---
 
-## 🧠 Tech Focus
+## ⚡Tech Focus
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,react,mongodb,postgres,opencv,git&theme=dark" />
-  <img src="https://img.shields.io/badge/NumPy-00FFFF?style=for-the-badge&logo=numpy&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Pandas-00FFFF?style=for-the-badge&logo=pandas&logoColor=000"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,express,react,mongodb,postgres,opencv,supabase,git&theme=dark" />
 </p>
 
 ---
@@ -39,15 +33,13 @@ Building impactful tech • Open Source Explorer
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://discord.gg/easb7he5">
-    <img src="https://img.shields.io/badge/Discord-00FFFF?style=for-the-badge&logo=discord&logoColor=000"/>
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
   <a href="https://www.linkedin.com/in/harsh-dalvi-693855336">
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000"/>
   </a>
   <a href="mailto:harshdalvi39@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=000"/>
   </a>
 </p>
 
