@@ -5,7 +5,7 @@
 <h1 align="center" style="color:#00FFFF;">Hey, I'm Harsh 👋</h1>
 
 <p align="center">
-  <b>Sophomore CSE Student • Backend-Focused Full Stack Developer</b><br/>
+  <b>CSE Student • Machine Learning | Multi-Agent Systems |Software Engineering</b><br/>
   <span style="color:#00FFFF;">Building • Learning • Contributing</span>
 
 ---
@@ -15,10 +15,9 @@
   <tr border="0" cellpadding="0" cellspacing="0" width="100%">
     <td width="70%" valign="top">
     
-💻 **Backend-focused Full Stack Developer**  
+💻 **Machine Learning and Backend Enthusiast**  
 🌍 Actively seeking **Open Source Contributions**  
-🧠 Interests: **Computer Vision, OpenCV, Applied AI**  
-🌐 Exploring **Web3 & Blockchain (DFINITY ICP)**  
+🧠 Interests: **Computer Vision, OpenCV, Applied AI**   
 🚀 Driven to build **real-world, impactful systems**
 
    </td>
