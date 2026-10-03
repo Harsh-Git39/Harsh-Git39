@@ -5,7 +5,7 @@
 <h1 align="center" style="color:#00FFFF;">Hey, I'm Harsh 👋</h1>
 
 <p align="center">
-  <b>CSE Student • Machine Learning | Multi-Agent Systems |Software Engineering</b><br/>
+  <b>CSE Student • Machine Learning | Multi-Agent Systems | Software Engineering</b><br/>
   <span style="color:#00FFFF;">Building • Learning • Contributing</span>
 
 ---
